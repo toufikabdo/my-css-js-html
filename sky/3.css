@@ -1,13 +1,1 @@
-#particles-js {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-position: 50% 50%;
-    background-repeat: no-repeat
-}
-
-.section1-gd {
-    background: #1a3848 url(https://3.bp.blogspot.com/-1jvTNeYc1WQ/WgdcKrfM4vI/AAAAAAAAA34/FevgUlaKGdsdS2oLjjPhXCDFluhsdFDeQCLcBGAs/s1600/d.jpg) no-repeat center top;
-    background-size: 100%
-    
-}
+#particles-js{position:absolute;width:100%;height:100%;background-position:50% 50%;background-repeat:no-repeat}.section1-gd{background:#1a3848 url(https://3.bp.blogspot.com/-1jvTNeYc1WQ/WgdcKrfM4vI/AAAAAAAAA34/FevgUlaKGdsdS2oLjjPhXCDFluhsdFDeQCLcBGAs/s1600/d.jpg) no-repeat center top;background-size:100%}
