@@ -1,0 +1,18 @@
+<!-- أداة تضمين الروابط -->
+<b:if cond='data:blog.pageType != &quot;index&quot;'>
+<b:if cond='data:blog.pageType != &quot;archive&quot;'>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div id='linkshare'>
+<h2 style='margin-bottom:0.5em;color:#555555;'>الحصول على رابط هذا الموضوع</h2>
+<b>رابط:</b>
+<textarea id='url' onclick='this.focus();this.select()' readonly='readonly' rows='1' style='margin-bottom:15px; background-color:#F8F8F8;color:#444444; height: 2.6em; width: 98%;' title='انقر للنسخ'><data:blog.url/></textarea>
+  <br/>
+<b>رابط الموضوع بكود html:</b>
+<textarea id='HTML-code' onclick='this.focus();this.select()' readonly='readonly' rows='1' style='margin-bottom:15px; background-color: #F8F8F8;color:#444444; height: 2.6em; width: 98%;' title='انقر للنسخ'>&lt;a href=&quot;<data:blog.url/>&quot;&gt;<data:blog.pageTitle/> &quot;clickable&quot;&lt;/a&gt;</textarea>
+<br/>
+<b>رابط الموضوع للمنتديات:</b>
+<textarea id='BB-code' onclick='this.focus();this.select()' readonly='readonly' rows='1' style='margin-bottom:15px; background-color:#F8F8F8;color:#444444; height: 2.6em; width: 98%;' title='انقر للنسخ'>[url=<data:blog.url/>]<data:blog.pageTitle/> &quot;clickable&quot;[/url]</textarea>
+  </div>
+ </b:if>       
+</b:if>
+</b:if>
