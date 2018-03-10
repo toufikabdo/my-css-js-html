@@ -1,0 +1,6 @@
+<!-- أداة فهرس الموقع -->
+<div dir="rtl" style="text-align: right;" trbidi="on">
+<script src="https://toufikabdo.github.io/my-css-js-html/P-PU/news.js"></script>
+<script src="https://profeuser.blogspot.com/feeds/posts/summary?max-results=1000&amp;alt=json-in-script&amp;callback=loadtoc"></script>
+
+</div>
