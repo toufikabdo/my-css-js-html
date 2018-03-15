@@ -3,5 +3,5 @@
   <p>نحن نعرض الإعلانات على الموقع للإسهام في تحسين موقعنا.</p>
   <p>نرجوا منكم إزالة أداة أدبلوك بلس من متصفحكم أو إضافة الموقع للقائمة البيضاء لديكم في الأداة.</p>
   <p>شكر&#1611;ا لك</p>
-  <div class='close-keep-ads' onclick='hidekeep()'>&#215;</div>
+  <div class='close-keep-ads' onclick='hidekeep()' style='cursor:pointer'>&#215;</div>
 </div>
