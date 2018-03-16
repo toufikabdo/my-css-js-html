@@ -1,0 +1,3 @@
+<link href='https://toufikabdo.github.io/my-css-js-html/P-PU/zkh/1.css' rel='stylesheet' type='text/css'/>
+
+<script src='https://toufikabdo.github.io/my-css-js-html/P-PU/zkh/2.js' type='text/javascript'/>

@@ -1,0 +1,20 @@
+<!-- zakhrfa -->
+<div id="zakhrfa">
+ <form name="f">
+<h2>أكتب الأسم الذي تريد زخرفتهً</h2>
+<textarea placeholder="" cols="20" name="original" onfocus="this.value=''" onkeyup="flip()" rows="2" id="mytextarea" style="width:32%;min-width:300px;"></textarea>
+<h3>أنواع الزخارف</h3>
+<textarea cols="30" name="flipped1" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped2" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped3" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped4" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped5" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped6" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped7" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped8" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped9" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped13" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block;direction:ltr"></textarea>
+<textarea cols="30" name="flipped10" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped12" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+<textarea cols="30" name="flipped11" onclick="this.focus(); this.select()" rows="2" style="width:30%;display:inline-block"></textarea>
+</form></div>
