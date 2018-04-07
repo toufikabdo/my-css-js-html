@@ -13,7 +13,6 @@
 <script src='https://toufikabdo.github.io/my-css-js-html/P-PU/adblock.js' type='text/javascript'/>
 <script src='https://toufikabdo.github.io/my-css-js-html/P-PU/btons.js' type='text/javascript'/>
 <script src='https://toufikabdo.github.io/my-css-js-html/P-PU/stmp.js' type='text/javascript'/>
-<script src='https://toufikabdo.github.io/my-css-js-html/P-PU/pushfox.js' type='text/javascript'/>
 
 
 
